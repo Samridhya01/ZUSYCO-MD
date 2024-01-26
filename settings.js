@@ -42,7 +42,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 100,
+  MAX_SIZE : 1000,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
@@ -74,9 +74,9 @@ module.exports = {
   },
   AUTO_STICKER : true,
   STICKERS : {
-    "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
-    "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
-    "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
+    "samridhya" : "https://i.ibb.co/NVLMQDP/pit.webp",
+    "samrat" : "https://i.ibb.co/yqk8QQ9/agei.webp",
+    "saraswati" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
   LOAD_ANIMATION : true,
  
