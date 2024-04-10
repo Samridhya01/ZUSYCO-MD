@@ -74,9 +74,13 @@ module.exports = {
   },
   AUTO_STICKER : true,
   STICKERS : {
-    "samridhya" : "https://i.ibb.co/NVLMQDP/pit.webp",
-    "samrat" : "https://i.ibb.co/yqk8QQ9/agei.webp",
-    "saraswati" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
+    "loveyou" : "https://i.ibb.co/s2gL30K/murgi-kay-dhan.webp",
+    "🤣🤣🤣🤣🤣" : "https://i.ibb.co/mbcPcQL/punit.webp",
+    "Bokachoda" : "https://i.ibb.co/Tv2X8XX/bokachoda.webp",
+    "pagol" : "https://i.ibb.co/4JQHn3c/pagol.webp",
+    "kalabo" : "https://i.ibb.co/qsMDK1k/kalabo.webp",
+    "Depression" : "https://i.ibb.co/QD4Jkfj/depretion.webp",
+    "saraswati" : "https://i.ibb.co/T2DgpMh/sara.webp"
   },
   LOAD_ANIMATION : true,
  
