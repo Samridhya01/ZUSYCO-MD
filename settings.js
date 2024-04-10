@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "919062628928",
+  OWNER_NUMBER: "919062628928,919907106071",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "¸¸♬·¯·♪·¯·♫¸¸ 𝓢𝓪𝓶𝓻𝓪𝓽 𝓧𝓓¸¸♫·¯·♪¸♩·¯·♬¸¸",
-  BOT_NAME : "𝚂𝚊𝚖𝚛𝚒𝚍𝚍𝚑𝚘 𝙿𝚁𝙾",
+  OWNER_NAME: "🆂🅰🅼🆁🅸🅳🅳🅷🅾",
+  BOT_NAME : "˜”°•✩•°”˜ 𝙼𝚊𝚊 𝚂𝚊𝚛𝚊𝚜𝚠𝚊𝚝𝚒 ˜”°•✩•°”˜",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© 🄶🄴🄽🄴🅁🄰🅃🄴🄳 🄱🅈 🅂🄰🄼🅁🄰🅃 🅇🄳',
-  STICKER_PACK : '💲🅰Ⓜ🌱🅰🍄 ❎🐬',
+  CAPTION : '© 🄶🄴🄽🄰🅁🄰🅃🄴 🄱🅈 🅂.🄳🄾🄽',
+  STICKER_PACK : '𝑠𝑎𝑟𝑎𝑠𝑤𝑎𝑡𝑖',
   BAD_WORDS : 'vai,bhai',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
