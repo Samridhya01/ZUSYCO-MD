@@ -78,8 +78,8 @@ module.exports = {
     "🤣🤣🤣🤣" : "https://i.ibb.co/mbcPcQL/punit.webp",
     "Boka" : "https://i.ibb.co/Tv2X8XX/bokachoda.webp",
     "pagol" : "https://i.ibb.co/4JQHn3c/pagol.webp",
-    "kalabo" : "https://i.ibb.co/qsMDK1k/kalabo.webp",
-    "chagol" : "https://i.ibb.co/QD4Jkfj/depretion.webp",
+    "kala" : "https://i.ibb.co/qsMDK1k/kalabo.webp",
+    "chag" : "https://i.ibb.co/QD4Jkfj/depretion.webp",
     "saraswati" : "https://i.ibb.co/T2DgpMh/sara.webp"
   },
   LOAD_ANIMATION : true,
