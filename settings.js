@@ -67,7 +67,7 @@ module.exports = {
     "yaka" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-yaka.mp3",
     "animel" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-animel.mp3",
     "bitch" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-bitch.mp3",
-    "papa" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-papa.mp3",
+    "night" : "https://github.com/Samridhya01/ZUSYCO-MD/raw/main/Sticker/WhatsApp%20Audio%202024-04-14%20at%2011.05.05_a7c55d5b.waptt",
     "shee" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
