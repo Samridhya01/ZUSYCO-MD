@@ -70,7 +70,7 @@ module.exports = {
     "night" : "https://github.com/Samridhya01/ZUSYCO-MD/raw/main/Sticker/WhatsApp%20Audio%202024-04-14%20at%2011.05.05_a7c55d5b.waptt",
     "shee" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-sheela.mp3",
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
-    "fuck" : "https://github.com/Samridhya01/ZUSYCO-MD/raw/main/Sticker/gandi%20ji.mp3",
+    "GF" : "https://github.com/Samridhya01/ZUSYCO-MD/raw/main/Sticker/gandi%20ji.mp3",
 
   },
   AUTO_STICKER : true,
