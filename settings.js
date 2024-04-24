@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "919907106071,919062628928",
+  OWNER_NUMBER: "919062628928,919907106071",
   SUDO_NUMBERS : "919062628928",
   OWNER_NAME: "🆂🅰🅼🆁🅸🅳🅳🅷🅾",
   BOT_NAME : "˜”°•✩•°”˜ 𝙼𝚊𝚊 𝚂𝚊𝚛𝚊𝚜𝚠𝚊𝚝𝚒 ˜”°•✩•°”˜",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://imgur.com/WCgjmIR.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -31,7 +31,7 @@ module.exports = {
         GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
+  TIME_ZONE :  "Asia/Kolkata",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
